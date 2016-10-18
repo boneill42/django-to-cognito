@@ -1,4 +1,4 @@
-# django-lambda-auth
+# django-to-cogito
 
 Create a new User Pool
 
