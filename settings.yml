@@ -1,0 +1,7 @@
+---
+project: django-to-cognito
+default-region: us-east-1
+code-bucket: lambda-monetate-dev
+apps:
+  - gordon.contrib.lambdas
+  - lambda

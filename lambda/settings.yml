@@ -1,0 +1,8 @@
+lambdas:
+  django-to-cognito:
+    code: django-auth
+    handler: code.handler
+    runtime: python
+    #description: Simple functions in python which says hello
+    #role:
+    #memory:
